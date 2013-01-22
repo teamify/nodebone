@@ -1,0 +1,26 @@
+EC2
++ you own the machine
++ lots of tutorials on the web (mongodb, node, ...)
+- need to choose right geographic location
+- complicated interface
+
+Cloud Foundry
++ support node.js (example: http://docs.cloudfoundry.com/frameworks/nodejs/nodejs.html)
++ support mongo-node (http://docs.cloudfoundry.com/services/mongodb/nodejs-mongodb.html)
++ test locally then push
+- command line console called 'vmc'  
+- beta version
+- - no pricing available
+
+Heroku
+- weird teminology
+- costly
++ node.js (https://devcenter.heroku.com/categories/nodejs)
++ mongohq
+
+Cloudbees
+- java only
+- Complicated. I find the doc not easy to find (Simon)
++ jenkins
++ mongohq (see the price at http://www.cloudbees.com/platform-service-mongohq.cb)
+- I did not like. It was very slow for me. Although a long time ago in 2012 (Simon)
